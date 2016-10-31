@@ -13,9 +13,9 @@ Before graduation, the *bobokia* uploads the codes for the assignments that he h
 ## Disclamer
 The codes the *bobokia* share are very *cui*, read and copy at your own cost. *bobokia* shall not be responsible for any damaged caused.
 
-## Repository directory of bobokia
+## Repository Directory of bobokia
 
-Module | Github Repo
+Module | GitHub Repo
 ---|---
 CE/CZ 2002 Object-Oriented Design and Programming | [Moblima-2002](https://github.com/tanhauhau/Moblima-2002)
 CZ 2003 Computer Graphics | [MockingJ-2003](https://github.com/tanhauhau/MockingJ-2003)
@@ -24,9 +24,9 @@ CE/CZ 3001 Advanced Computer Architecture | [CPU-3001](https://github.com/tanhau
 CE 3006 Digital Communications | [Matlab-3006](https://github.com/tanhauhau/Matlab-3006)
 CE/CZ 4013 Distributed Systems | [Bueno4013](https://github.com/tanhauhau/Bueno4013)
 
-## Repository directory of pros
+## Repository Directory of Pros
 
-Module | Owner | Github Repo
+Module | Owner | GitHub Repo
 ---|---|---
 CE/CZ 1003 | [almightyGOSU](https://github.com/almightyGOSU) | [CZ1003-Introduction-To-Computational-Thinking](https://github.com/almightyGOSU/CZ1003-Introduction-To-Computational-Thinking)
 CE/CZ 1003 | [Suyash Lakhotia](https://github.com/SuyashLakhotia) | [SpellCheck](https://github.com/SuyashLakhotia/SpellCheck)
@@ -48,6 +48,7 @@ CE/CZ 2006 | [almightyGOSU](https://github.com/almightyGOSU) | [CZ2006-Software-
 CE/CZ 2006 | [blakegong](https://github.com/blakegong) | [eProctorFX](https://github.com/blakegong/eProctorFX)
 CE/CZ 2006 | [Crazyconv](https://github.com/Crazyconv) | [eProctor_CodeMonkey](https://github.com/Crazyconv/eProctor_CodeMonkey)
 CZ 2007 | [imdreamrunner](https://github.com/imdreamrunner) | [cz2007lab](https://github.com/imdreamrunner/cz2007lab)
+CZ 2007 | [Suyash Lakhotia](https://github.com/SuyashLakhotia) | [SnatchCarSQL](https://github.com/SuyashLakhotia/SnatchCarSQL)
 CE/CZ 3001 | [MiPiPe](https://github.com/MiPiPe) | [miCPU](https://github.com/MiPiPe/miCPU)
 CE/CZ 3001 | [cly753](https://github.com/cly753) | [CE3001Project](https://github.com/cly753/CE3001PROJECT)
 CE/CZ 3001 | [Crazyconv](https://github.com/Crazyconv) | [5-pipeline-MIPS-CPU](https://github.com/Crazyconv/5-pipeline-MIPS-CPU)
@@ -63,9 +64,10 @@ CE/CZ 3004 | [junyihjy](https://github.com/junyihjy) | [mdp_hardware](https://gi
 CE/CZ 3004 | [almightyGOSU](https://github.com/almightyGOSU) | [CZ3004-MDP-Almighty-Algorithm](https://github.com/almightyGOSU/CZ3004-MDP-Almighty-Algorithm)
 CE/CZ 3004 | [blakegong](https://github.com/blakegong/MDP-Arduino) | [MDP-Arduino](https://github.com/blakegong/MDP-Arduino) 
 CE/CZ 3004 | [Crazyconv](https://github.com/Crazyconv) | [MDP_rpi](https://github.com/Crazyconv/MDP_rpi), [MDP_arduino](https://github.com/Crazyconv/MDP_arduino), [MDP_algo](https://github.com/Crazyconv/MDP_algo)
-CZ3006 | [Siyuan LIU](https://github.com/koallen) | [sliding-window-protocol](https://github.com/koallen/sliding-window-protocol)
-CZ3006 | [Suyash Lakhotia](https://github.com/SuyashLakhotia) | [SlidingWindowProtocol](https://github.com/SuyashLakhotia/SlidingWindowProtocol)
-CZ3006 | [Nikhil Venkatesh](https://github.com/nikv96) | [SlidingWindowProtocol](https://github.com/nikv96/SlidingWindowProtocol)
+CZ 3006 | [Siyuan LIU](https://github.com/koallen) | [sliding-window-protocol](https://github.com/koallen/sliding-window-protocol)
+CZ 3006 | [Suyash Lakhotia](https://github.com/SuyashLakhotia) | [SlidingWindowProtocol](https://github.com/SuyashLakhotia/SlidingWindowProtocol)
+CZ 3006 | [Suyash Lakhotia](https://github.com/SuyashLakhotia) | [SimplePaymentForm](https://github.com/SuyashLakhotia/SimplePaymentForm)
+CZ 3006 | [Nikhil Venkatesh](https://github.com/nikv96) | [SlidingWindowProtocol](https://github.com/nikv96/SlidingWindowProtocol)
 CZ 3007 | [liuzhanqi](https://github.com/liuzhanqi) | [CZ3007Lab4Clean](https://github.com/liuzhanqi/CZ3007Lab4Clean)
 CE/CZ 4013 | [imdreamrunner](https://github.com/imdreamrunner) | [yogurt.cloud](https://github.com/imdreamrunner/yogurt.cloud)
 CE/CZ 4013 | [rohitsm](https://github.com/rohitsm) | [distsystems](https://github.com/rohitsm/distsystems)
@@ -83,9 +85,13 @@ CZ 4046 | [almightyGOSU](https://github.com/almightyGOSU) | [CZ4046-Intelligent-
 CE/CZ 4062 | [cly753](https://github.com/cly753) | [cz4062_project](https://github.com/cly753/cz4062_project)
 CE/CZ 4062 | [blakegong](https://github.com/blakegong) | [CX4062-Computer-Security](https://github.com/blakegong/CX4062-Computer-Security)
 
-## Ancient Repository
+Other | Owner | GitHub Repo
+---|---|---|
+Notes for Various Modules | [Suyash Lakhotia](https://github.com/SuyashLakhotia) | [UniversityNotes](https://github.com/SuyashLakhotia/UniversityNotes)
 
-Module | Owner | Github Repo
+## Ancient Repositories
+
+Module | Owner | GitHub Repo
 ---|---|---
 CSC 102 Intro to Programming | [mazatsushi](https://github.com/mazatsushi) | [CSC-102-Assignments](https://github.com/mazatsushi/CSC-102-Assignments)
 CSC 302 Net Centric Computing | [mazatsushi](https://github.com/mazatsushi) | [CSC-302-Assignments](https://github.com/mazatsushi/CSC-302-Assignments)
